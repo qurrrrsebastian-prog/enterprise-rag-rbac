@@ -1,0 +1,6 @@
+[Training Module — Dasar-Dasar Rope Access]
+Apa itu Rope Access? Rope access adalah teknik akses menggunakan tali dan peralatan panjat untuk melakukan pekerjaan di ketinggian yang sulit dijangkau scaffolding.
+Keuntungan Rope Access: lebih cepat setup, lebih murah, lebih fleksibel untuk gedung tinggi.
+Safety pertama: selalu gunakan 2 tali (working line + backup line).
+Istilah penting: Harness (tali pinggang), Ascender (alat naik), Descender (alat turun), Carabiner (pengait).
+Sejarah: teknik ini berasal dari industri panjat tebing dan diadaptasi untuk industri konstruksi & maintenance.
